@@ -1,12 +1,48 @@
-# React + Vite
+<!-- PROJECT LOGO -->  
+<br />  
+<div align="center">  
+<img src="src/assets/logo4.webp" alt="Logo" width="150" height="150">  
+</a>  
+  
+<h3 align="center"></h3>  
+  
+<p align="center">  
+ 
+<br />  
+<br />  
+<a href="[https://justcallmezaaii.github.io/lapid-final_project
+/](https://justcallmezaaii.github.io/lapid-final_project
+/)">View Demo</a> 
+</p>  
+</div>  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<!-- ABOUT THE PROJECT -->  
+## About The Project  
+  This is the portfolio of user @justcallmezaaii
 
-Currently, two official plugins are available:
+<p align="right">(<a href="#readme-top">back to top</a>)</p>  
+  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Top contributors:
 
-## Expanding the ESLint configuration
+<a href="https://https://github.com/justcallmezaaii/lapid-final_project
+/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=justcallmezaaii/lapid-final_project
+" alt="contrib.rocks image" />
+</a>
+  
+  
+<!-- CONTACT -->  
+## Contact  
+  
+Zairen V. Lapid - zvl0248@students.uc-bcf.edu.ph  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Project Link: [[https://github.com/justcallmezaaii/lapid-final_project
+](https://github.com/justcallmezaaii/lapid-final_project
+)]
+  
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+[contributors-url]: https://github.com/justcallmezaaii/lapid-final_project
+/graphs/contributors
