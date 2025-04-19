@@ -10,23 +10,20 @@
  
 <br />  
 <br />  
-<a href="[https://justcallmezaaii.github.io/lapid-final_project
-/](https://justcallmezaaii.github.io/lapid-final_project
-/)">View Demo</a> 
+<a href="[https://justcallmezaaii.github.io/lapid-final_project/](https://justcallmezaaii.github.io/lapid-final_project/)">View Demo</a> 
 </p>  
 </div>  
 
 <!-- ABOUT THE PROJECT -->  
 ## About The Project  
-  This is the portfolio of user @justcallmezaaii
+  This is the portfolio of user @justcallmezaaii using react + vite
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>  
   
 
 ### Top contributors:
 
-<a href="https://https://github.com/justcallmezaaii/lapid-final_project
-/graphs/contributors">
+<a href="https://https://github.com/justcallmezaaii/lapid-final_project/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=justcallmezaaii/lapid-final_project" alt="contrib.rocks image" />
 </a>
   
@@ -36,9 +33,7 @@
   
 Zairen V. Lapid - zvl0248@students.uc-bcf.edu.ph  
 
-Project Link: [[https://github.com/justcallmezaaii/lapid-final_project
-](https://github.com/justcallmezaaii/lapid-final_project
-)]
+Project Link: [[https://github.com/justcallmezaaii/lapid-final_project](https://github.com/justcallmezaaii/lapid-final_project)]
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
