@@ -27,8 +27,7 @@
 
 <a href="https://https://github.com/justcallmezaaii/lapid-final_project
 /graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=justcallmezaaii/lapid-final_project
-" alt="contrib.rocks image" />
+  <img src="https://contrib.rocks/image?repo=justcallmezaaii/lapid-final_project" alt="contrib.rocks image" />
 </a>
   
   
@@ -44,5 +43,4 @@ Project Link: [[https://github.com/justcallmezaaii/lapid-final_project
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-[contributors-url]: https://github.com/justcallmezaaii/lapid-final_project
-/graphs/contributors
+[contributors-url]: https://github.com/justcallmezaaii/lapid-final_project/graphs/contributors
