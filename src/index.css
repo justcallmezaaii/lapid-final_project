@@ -1,11 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.cdnfonts.com/css/sf-pro-display');
+
 :root {
-  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: 'SF Pro Display', sans-serif;
   line-height: 1.5;
   font-weight: 400;
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  background-image: url(src/assets/macos_walp5.jpg);
+  background-size: cover;
+  background-position: center;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
