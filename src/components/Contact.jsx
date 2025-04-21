@@ -13,7 +13,7 @@ const Contact = () => {
   };
 
   return (
-    <div id="contact" class="window content-section block">
+    <div id="contact" className="window content-section" style={{ display: 'block' }}>
       <section>
         <h2 className="text-3xl font-semibold text-blue-600">Contact</h2>
         <form onSubmit={handleSubmit} className="mt-6 space-y-4 max-w-xl">

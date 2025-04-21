@@ -2,7 +2,7 @@ import React from 'react';
 
 const Experience = () => {
   return (
-    <div id="experience" class="window content-section block">
+    <div id="experience" className="window content-section" style={{ display: 'block' }}>
       <section>
         <h2 className="text-3xl font-semibold text-blue-600">Experience</h2>
         <ul className="mt-4 space-y-2">

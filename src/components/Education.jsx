@@ -2,7 +2,7 @@ import React from 'react';
 
 const Education = () => {
   return (
-    <div id="education" class="window content-section block">
+    <div id="education" className="window content-section" style={{ display: 'block' }}>
       <section>
         <h2 className="text-3xl font-semibold text-blue-600">Education</h2>
         <ul className="mt-4 list-disc list-inside">
