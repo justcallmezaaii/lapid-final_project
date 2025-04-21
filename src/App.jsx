@@ -27,7 +27,7 @@ function App() {
       </div>
 
 
-      <div className="fixed bottom-6 left-1/2 -translate-x-1/2 bg-white/20 backdrop-blur-md px-6 py-3 rounded-3xl flex space-x-4 shadow-lg border border-white/30">
+      <div className="fixed bottom-6 left-1/2 -translate-x-1/2 backdrop-blur-md; px-6 py-3 rounded-3xl flex space-x-4 shadow-lg border-transparent">
 
       <button onClick={() => setActiveSection('skills')}>
         <img
@@ -38,18 +38,18 @@ function App() {
       </button>
 
         <button onClick={() => setActiveSection('about')}>
-          <img src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Notes-512.png" className="h-8 w-auto hover:scale-110 transition-transform duration-200" />
+          <img src="https://cdn.iconscout.com/icon/free/png-256/free-apple-notes-icon-download-in-svg-png-gif-file-formats--logo-note-apps-pack-user-interface-icons-493153.png?f=webp&w=256" className="h-8 w-auto hover:scale-110 transition-transform duration-200" />
         </button>
         <button onClick={() => setActiveSection('contact')}>
           <img src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Phone-512.png" className="h-8 w-auto hover:scale-110 transition-transform duration-200" />
         </button>
-        <button onClick={() => setActiveSection('skills')}>
-          <img src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Safari-512.png" className="h-8 w-auto hover:scale-110 transition-transform duration-200" />
+        <button onClick={() => setActiveSection('education')}>
+          <img src="https://icons.veryicon.com/png/Phone/iOS7%20Style/Safari.png" className="h-8 w-auto hover:scale-110 transition-transform duration-200" />
         </button>
         <button onClick={() => setActiveSection('experience')}>
-          <img src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Files-512.png" className="h-8 w-auto hover:scale-110 transition-transform duration-200" />
+          <img src="https://www.macworld.com/wp-content/uploads/2023/12/folder-icon-macos.png?w=1024" className="h-8 w-auto hover:scale-110 transition-transform duration-200" />
         </button>
-</div>
+    </div>
 
 
     </div>
