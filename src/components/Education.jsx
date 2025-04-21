@@ -21,7 +21,7 @@ const Education = () => {
           <li>Bachelor's in Information Technology Major in Web Technologies – University of the Cordilleras, 2nd year student</li>
           <li>Junior and Senior High School- Science, Technology, Engineering , and Mathematics &#40;STEM- Math Track&#41; in Saint Louis School, Inc.	</li>
           <li>Elementary- University of the Cordilleras</li>
-          <li>Cicso Networking Academy Verified- CCNA 1 ITN , CCNA 2 SRWE<img src="src/assets/ccna-introduction-to-networks copy.png"/></li>
+          <li>Cicso Networking Academy Verified- CCNA 1 ITN , CCNA 2 SRWE<img src="/lapid-final_project/src/assets/ccna-introduction-to-networks copy.png"/></li>
         </ul>
       </section>
     </div>  

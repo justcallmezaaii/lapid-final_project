@@ -14,6 +14,8 @@ const Skills = () => {
     </div>
     <div class="p-4 text-center">
       <div id="skills" className="window content-section" style={{ display: 'block' }}>
+      <img src="/lapid-final_project/src/assets/zai3.png" className="!w-[136px] !h-40 mx-auto outline rounded-full mb-2 object-cover scale-110" />
+
       <h2 className="text-3xl font-semibold text-blue-600">Skills</h2>
       <div className="mt-4 grid grid-cols-2 sm:grid-cols-3 gap-4">
         <span className="bg-blue-100 text-gray-700 px-4 py-2 rounded-full text-center">HTML5</span>

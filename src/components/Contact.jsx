@@ -26,7 +26,7 @@ const Contact = () => {
       </div>
 
       <div className="p-4 text-center">
-        <img src="src/assets/zai.jpeg" alt="Zai" className="w-24 h-30 mx-auto rounded-full mb-4" />
+      <img src="/lapid-final_project/src/assets/zai1.png" className="!w-[136px] !h-40 mx-auto outline rounded-full mb-2 object-cover scale-110" />
 
         <h2 className="text-3xl font-semibold text-blue-600">Contact</h2>
         <form onSubmit={handleSubmit} className="mt-6 space-y-4 max-w-xl mx-auto text-left">

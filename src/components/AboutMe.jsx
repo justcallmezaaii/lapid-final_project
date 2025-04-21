@@ -14,7 +14,7 @@ const AboutMe = () => {
         <div></div> 
       </div>
     <div class="p-5 text-justify">
-    <img src="src/assets/zai1.png" className="!w-[136px] !h-40 mx-auto outline outline-offset-2 rounded-full mb-4 object-cover scale-120" />
+    <img src="/lapid-final_project/src/assets/zai2.png" className="!w-[136px] !h-40 mx-auto outline outline-offset-2 rounded-full mb-4 object-cover scale-110" />
       <h1 class="headerAbout">"I’m Nobody! Who are you?
       Are you Nobody too?" — Emily Dickinson</h1>
 

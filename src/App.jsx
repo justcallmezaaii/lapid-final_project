@@ -30,7 +30,7 @@ function App() {
         <img
           src="https://www.macworld.com/wp-content/uploads/2023/12/folder-icon-macos.png?w=1024"
           alt="Folder"
-          className="h-16 hover:scale-105 transition-transform"
+          className="!h-16 w-auto hover:scale-105 transition-transform"
         />
       </button>
       <p className="text-sm mt-1">My Projects</p>
