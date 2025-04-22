@@ -1,23 +1,23 @@
-@import url('https://fonts.cdnfonts.com/css/sf-pro-display');
 @import "tailwindcss";
 
+
 :root {
-  font-family: 'SF Pro Display', sans-serif;
   line-height: 1.5;
   font-weight: 400;
 
   color-scheme: light dark;
   color: rgba(248, 244, 244, 0.87);
-  background-image: url(src/assets/macos_walp5.jpg);
   background-size: cover;
   background-position: center;
 }
 body{
+  font-family: 'SF Pro Display', sans-serif !important;
   margin: 0;
   display: flex;
   place-items: center;
 
 }
+  
 a {
   font-weight: 500;
   color: #cecfe9;

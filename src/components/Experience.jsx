@@ -1,4 +1,10 @@
 import React from 'react';
+import ghpg from '/src/assets/githubpages.ico';
+import spacingout from '/src/assets/comet.png';
+import ctrlcare from '/src/assets/ctrl+care.png';
+import sinks from '/src/assets/sinksrus.png';
+import portfolio from '/src/assets/portfolio.png'; 
+
 
 const Experience = () => {
   return (
@@ -31,35 +37,35 @@ const Experience = () => {
             
             <div className="text-center">
               <a href="https://justcallmezaaii.github.io/">
-                <img src="/lapid-final_project/src/assets/githubpages.ico" className="w-20 h-20 object-contain hover:scale-105 transition-transform mx-auto" />
+                <img src={ghpg} className="w-20 h-20 object-contain hover:scale-105 transition-transform mx-auto" />
                 <p className="text-sm mt-2">GitHub Pages</p>
               </a>
             </div>
 
             <div className="text-center">
               <a href="https://justcallmezaaii.github.io/api-call">
-                <img src="/lapid-final_project/src/assets/comet.png" className="w-20 h-20 object-contain hover:scale-105 transition-transform mx-auto" />
+                <img src={spacingout} className="w-20 h-20 object-contain hover:scale-105 transition-transform mx-auto" />
                 <p className="text-sm mt-2">Spacing Out</p>
               </a>
             </div>
 
             <div className="text-center">
               <a href="https://ctrl-care.onrender.com">
-                <img src="/lapid-final_project/src/assets/ctrl+care.png" className="w-20 h-20 object-contain hover:scale-105 transition-transform mx-auto" />
+                <img src={ctrlcare} className="w-20 h-20 object-contain hover:scale-105 transition-transform mx-auto" />
                 <p className="text-sm mt-2">Ctrl+Care</p>
               </a>
             </div>
 
             <div className="text-center">
               <a href="https://justcallmezaaii.github.io/sinkssys">
-                <img src="/lapid-final_project/src/assets/sinksrus.png" className="w-20 h-20 object-contain hover:scale-105 transition-transform mx-auto" />
+                <img src={sinks} className="w-20 h-20 object-contain hover:scale-105 transition-transform mx-auto" />
                 <p className="text-sm mt-2">Sinks R Us</p>
               </a>
             </div>
 
             <div className="text-center">
               <a href="https://justcallmezaaii.github.io/porfolio">
-                <img src="/lapid-final_project/src/assets/portfolio.png" className="w-20 h-20 object-contain hover:scale-105 transition-transform mx-auto" />
+                <img src={portfolio} className="w-20 h-20 object-contain hover:scale-105 transition-transform mx-auto" />
                 <p className="text-sm mt-2">Portfolio</p>
               </a>
             </div>
@@ -73,7 +79,6 @@ const Experience = () => {
     </div>
     </div>
     </div>
-    
   );
 };
 

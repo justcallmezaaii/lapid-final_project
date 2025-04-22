@@ -7,6 +7,8 @@ import Experience from './components/Experience';
 import Skills from './components/Skills';
 import Contact from './components/Contact';
 import StatusBar from './components/Statusbar';
+import wallpaper from './assets/macos_walp5.jpg';
+
 
 
 
@@ -16,7 +18,7 @@ function App() {
   console.log("App rendering");
 
   return (
-  <div className="h-screen w-screen flex flex-col justify-between text-white">
+  <div className="h-screen w-screen flex flex-col justify-between text-white bg-cover bg-center" style={{ backgroundImage: `url(${wallpaper})` }}>
       <StatusBar/>
       <div className="p-8">
         {activeSection === 'about' && <AboutMe />}
