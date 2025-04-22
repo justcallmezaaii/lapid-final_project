@@ -1,4 +1,5 @@
 import React from 'react';
+import zaii from '/src/assets/zai2.png';
 
 const AboutMe = () => {
   return (
@@ -14,7 +15,7 @@ const AboutMe = () => {
         <div></div> 
       </div>
     <div class="p-5 text-justify">
-    <img src="/lapid-final_project/src/assets/zai2.png" className="!w-[136px] !h-40 mx-auto outline outline-offset-2 rounded-full mb-4 object-cover scale-110" />
+    <img src={zaii} className="!w-[136px] !h-40 mx-auto outline outline-offset-2 rounded-full mb-4 object-cover scale-110" />
       <h1 class="headerAbout">"I’m Nobody! Who are you?
       Are you Nobody too?" — Emily Dickinson</h1>
 

@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import zai from '/src/assets/zai1.png';
 
 const Contact = () => {
   const [formData, setFormData] = useState({ name: '', email: '', message: '' });
@@ -26,7 +27,7 @@ const Contact = () => {
       </div>
 
       <div className="p-4 text-center">
-      <img src="/lapid-final_project/src/assets/zai1.png" className="!w-[136px] !h-40 mx-auto outline rounded-full mb-2 object-cover scale-110" />
+      <img src={zai} className="!w-[136px] !h-40 mx-auto outline rounded-full mb-2 object-cover scale-110" />
 
         <h2 className="text-3xl font-semibold text-blue-600">Contact</h2>
         <form onSubmit={handleSubmit} className="mt-6 space-y-4 max-w-xl mx-auto text-left">
