@@ -37,36 +37,37 @@ const Experience = () => {
             
             <div className="text-center">
               <a href="https://justcallmezaaii.github.io/">
-                <img src={ghpg} className="w-20 h-20 object-contain hover:scale-105 transition-transform mx-auto" />
-                <p className="text-sm mt-2">GitHub Pages</p>
+                <img src={ghpg} className="w-20 h-20 object-contain hover:scale-105 transition-transform mx-auto shadow-lg rounded-xl"/>
+                <p className="text-sm text-gray-700 mt-2">GitHub Pages</p>
               </a>
             </div>
 
             <div className="text-center">
               <a href="https://justcallmezaaii.github.io/api-call">
-                <img src={spacingout} className="w-20 h-20 object-contain hover:scale-105 transition-transform mx-auto" />
-                <p className="text-sm mt-2">Spacing Out</p>
+                <img src={spacingout} className="w-20 h-20 object-contain hover:scale-105 transition-transform mx-auto shadow-lg rounded-xl" />
+                <p className="text-sm text-gray-700 mt-2">Spacing Out</p>
               </a>
             </div>
 
             <div className="text-center">
               <a href="https://ctrl-care.onrender.com">
-                <img src={ctrlcare} className="w-20 h-20 object-contain hover:scale-105 transition-transform mx-auto" />
-                <p className="text-sm mt-2">Ctrl+Care</p>
+                <img src={ctrlcare} className="w-20 h-20 object-contain hover:scale-105 transition-transform mx-auto shadow-lg rounded-xl" />
+                <p className="text-sm text-gray-700 mt-2">Ctrl+Care</p>
               </a>
             </div>
 
             <div className="text-center">
               <a href="https://justcallmezaaii.github.io/sinkssys">
-                <img src={sinks} className="w-20 h-20 object-contain hover:scale-105 transition-transform mx-auto" />
-                <p className="text-sm mt-2">Sinks R Us</p>
+                <img src={sinks} className="w-20 h-20 object-contain hover:scale-105 transition-transform mx-auto shadow-lg rounded-xl" />
+                <p className="text-sm text-gray-700 mt-2">Sinks R Us</p>
               </a>
             </div>
 
             <div className="text-center">
               <a href="https://justcallmezaaii.github.io/porfolio">
-                <img src={portfolio} className="w-20 h-20 object-contain hover:scale-105 transition-transform mx-auto" />
-                <p className="text-sm mt-2">Portfolio</p>
+                <img src={portfolio} className="w-20 h-20 object-contain hover:scale-105 transition-transform mx-auto shadow-lg rounded-xl"
+                />
+                <p className="text-sm text-gray-700 mt-2">Portfolio</p>
               </a>
             </div>
 
